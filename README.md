@@ -1,5 +1,5 @@
-## Hi there 👋
+## Olá! Eu sou Julio Silva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 🔭 Hoje eu trabalho com front-end
+- 🌱 Estudando Java Script
+- 😄 Ele/dele
