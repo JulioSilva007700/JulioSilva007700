@@ -1,5 +1,5 @@
 ## Olá! Eu sou Julio Silva
 
 - 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando Java Script
+- 🌱 Estudando React e Next.Js
 - 😄 Ele/dele
